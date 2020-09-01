@@ -1,5 +1,5 @@
 import React from 'react'
-import If from '../If.jsx'
+import If from './If.jsx'
 
 export default props => {
     return (
